@@ -1,0 +1,3 @@
+include ':HookwormForAndroid'
+include ':app'
+rootProject.name = "Hookworm For WanAndroid"
