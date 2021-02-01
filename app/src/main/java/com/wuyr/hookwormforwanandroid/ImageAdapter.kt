@@ -9,7 +9,7 @@ import com.bumptech.glide.Glide
 
 /**
  * @author wuyr
- * @github https://github.com/wuyr/
+ * @github https://github.com/wuyr/HookwormForWanAndroidTest
  * @since 2021-01-25 下午2:28
  */
 class ImageAdapter(context: Context) : PagerAdapter() {

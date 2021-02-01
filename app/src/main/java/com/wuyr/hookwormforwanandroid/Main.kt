@@ -16,7 +16,7 @@ import com.wuyr.hookworm.utils.set
 
 /**
  * @author wuyr
- * @github https://github.com/wuyr/
+ * @github https://github.com/wuyr/HookwormForWanAndroidTest
  * @since 2021-01-25 上午10:54
  */
 object Main {
